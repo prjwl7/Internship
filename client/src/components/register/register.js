@@ -17,7 +17,6 @@ export default function Register() {
 
   return (
     <div className="register">
-      {console.log(user)}
       <h1>REGISTER</h1>
       <input
         type="text"
